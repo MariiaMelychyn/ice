@@ -1,0 +1,13 @@
+.map-iframe {
+    width: 100%;
+    height: 260px;
+}
+
+.button-modal-map {
+    @extend .button;
+
+    display: flex;
+    width: 150px;
+    text-decoration: none;
+    margin: 0 auto;
+}

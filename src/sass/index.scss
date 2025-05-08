@@ -1,0 +1,34 @@
+@import './common';
+@import './buttons';
+@import './swiper-bundle';
+@import './utils/variables';
+@import './utils/placeholders';
+@import './layouts/header/hero-header';
+@import './layouts/header/mobile-menu-button';
+@import './layouts/header/logo';
+@import './layouts/header/mobile-menu';
+@import './layouts/header/navigation';
+@import './layouts/hero';
+@import './layouts/products';
+@import './layouts/about';
+@import './layouts/advantages';
+
+// ALTERNATIVE =======================
+@import './layouts/berries-ice-cream';
+
+@import './layouts/gallery';
+@import './layouts/customer-reviews';
+@import './layouts/contacts';
+@import './layouts/sections-background';
+@import './layouts/footer';
+
+// Modals
+@import './modals/modal-ingredients';
+@import './modals/modal-buynow';
+@import './modals/modal-franchise';
+@import './modals/modal-locations';
+@import './modals/modal-readmore';
+@import './modals/modal-howmade';
+
+// Button UP ==================
+@import './modals/button-up';
